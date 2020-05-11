@@ -1,0 +1,35 @@
+{
+        "anytime" : [
+                "Sexy",
+                "Schnitte",
+                "Moin, Moin, Was geht?",
+                "Du siehst heute großartig aus!",
+                "Heute ist ein großartiger Tag!",
+                "Du machst den unterschied!",
+                "Ein wunderschönes Lächeln, für einen wunderschönen Tag",
+                "Wege entstehen dadurch, dass man sie geht.",
+                "Nice Frise",
+                "Läuft bei Dir",
+                "Lösch den Chatverlauf und setz’ ein Lächeln auf.",
+                "Mitleid gibt’s geschenkt, doch Respekt muss du verdienen.",
+                "Menschen glauben öfter der Mehrheit, als der Wahrheit.",
+                "Für nix auf der Welt tausch ich ein, was ich hab.",
+                "Hinter jeder erfolgreichen Person steht ein Pack voller Neider."
+        ],
+        "morning" : [
+                "Dein Haar ist mega heute!",
+                "Beginne den Tag mit einem Lächeln",
+                "Das wird ein schöner Tag!",
+                "Schlafen kannst du wenn du Tod bist",
+                "Mach dich bereit für einen großartigen Tag!"
+        ],
+        "afternoon" : [
+                "Mache noch schnell deine Arbeit fertig ...",
+                "Nachmittag, nicht Morgen, nicht Mittag",
+                "Dieser Tag ist großartig"
+        ],
+        "evening" : [
+                "Du machst den Unterschied",
+                "Schlafen kannst du, wenn du Tot bist"
+        ]
+}
